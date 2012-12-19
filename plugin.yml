@@ -1,0 +1,9 @@
+name: Enchantmore
+version: 2.0
+description: Add dozens of new enchantment combinations to MineCraft!
+author: bobacadodl
+main: com.github.bobacadodl.Enchantmore.Enchantmore
+commands:
+  enchantmore:
+    aliases: [enchant, em, emore, enchantm]
+    description: Root plugin command
